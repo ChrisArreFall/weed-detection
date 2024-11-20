@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20210907_153931_x264_mp4-1847_jpg.rf.8349dd1d21ddbf4a9cce14c4331a76d1.jpg</filename>
+	<path>20210907_153931_x264_mp4-1847_jpg.rf.8349dd1d21ddbf4a9cce14c4331a76d1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Weeds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>175</xmin>
+			<xmax>516</xmax>
+			<ymin>66</ymin>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

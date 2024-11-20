@@ -54,8 +54,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>528</xmin>
-			<ymin>2288</ymin>
-			<xmax>1366</xmax>
+			<ymin>2152</ymin>
+			<xmax>1221</xmax>
 			<ymax>2705</ymax>
 		</bndbox>
 	</object>
@@ -117,6 +117,18 @@
 			<ymin>1633</ymin>
 			<xmax>2884</xmax>
 			<ymax>1848</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1243</xmin>
+			<ymin>2235</ymin>
+			<xmax>2000</xmax>
+			<ymax>2783</ymax>
 		</bndbox>
 	</object>
 </annotation>
